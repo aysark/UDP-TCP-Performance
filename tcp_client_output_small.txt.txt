@@ -1,0 +1,10 @@
+
+   Bytes sent (4)   |   Avg RTT (ms)   |   Estimated RTT (ms)   |   Avg Bandwidth (KB/s)   |   Estimated Bandwidth (KB/s)   
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+              4         |       0.00       |              0.00        |            Infinity        |               Infinity   
+
+ Total Avg Estimated RTT: 0.00ms   |   Total Avg Estimated BW: InfinityKB/s 
+
+*** File transfer complete...

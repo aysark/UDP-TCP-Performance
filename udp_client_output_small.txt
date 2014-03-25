@@ -1,0 +1,8 @@
+
+SegID   |   Bytes sent (4)   |   Avg RTT (ms)   |   Estimated RTT (ms)   |   Avg Bandwidth (KB/s)   |   Estimated Bandwidth (KB/s)   
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+0       |              4         |      32.00       |              8.00        |                0.06        |                   0.50   
+
+*** File transfer complete...
